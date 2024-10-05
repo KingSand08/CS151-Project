@@ -1,1 +1,1 @@
-# GameManagerPlus
+# FinanceJFXApp
